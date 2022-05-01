@@ -4,9 +4,9 @@ Hi 👋 My name is David Lenh
 Full-stack software engineer
 ----------------------------
 
-* 🌍  I'm based in San Francisco, California
-* 🧠  I'm currently learning Object-Oriented Programming
-* 🚀  I'm currently working on my client's website [GitHub repo](http://github.com/dlenh/sh-tutoring)
+* 🌍 I'm based in San Francisco, California
+* 🧠 I'm currently learning Object-Oriented Programming
+* 💻 I'm currently working on my client's website [GitHub repo](http://github.com/dlenh/sh-tutoring)
 * ⚡ I'm a Pokémon fan ever since the beginning
 * ✉️ You can contact me at [dlenh425@gmail.com](mailto:dlenh425@gmail.com)
 
