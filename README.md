@@ -21,13 +21,12 @@ Full-stack software engineer
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/dlenh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dlenh425" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dlenh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dlenh&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>My Codewars Stats</b>
+
+<a href="https://www.codewars.com/users/dlenh"><img src="https://www.codewars.com/users/dlenh/badges/large"/></a>
