@@ -1,6 +1,6 @@
 Hi 👋 My name is David Lenh
 ===========================
->An analytical and creative educator with a background in scientific research and a passion for solving complex problems in an efficient and timely manner. Proven track record of achieving impactful results, e.g., yielding experimental findings that contribute to the greater scientific community and improving students' grades. Looking to apply these soft skills and self-taught software development skills to a tech company with global reach.
+>Analytical and creative educator with a background in scientific research and a passion for solving complex problems in an efficient and timely manner. Proven track record of achieving impactful results, e.g., yielding experimental findings that contribute to the greater scientific community and improving students' grades. Looking to apply these soft skills and self-taught software development skills to a tech company with global reach.
 
 * 🌍 I'm based in San Francisco, California
 * 🧠 I'm currently learning **Object-Oriented Programming, Node, React, MongoDB**
