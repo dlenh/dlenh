@@ -1,3 +1,5 @@
+<a href="#"><img align="center" src="https://github.com/dlenh/dlenh/blob/main/rise.gif" width = "600"/>
+
 Hi 👋 My name is David Lenh
 ===========================
 >Analytical and creative educator with an inquisitive mind, a background in scientific research, and a drive to solve complex problems in an efficient and timely manner. Proven track record of achieving impactful results, e.g., yielding experimental findings that contribute to the greater scientific community and improving students' grades. Looking to apply these soft skills and software development skills to a tech company with global reach.
