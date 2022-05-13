@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/dlenh/dlenh/blob/main/rise.gif" width = "850"/>
+<a href="#"><img src="https://github.com/dlenh/dlenh/blob/main/rise.gif" width = "850"/></a>
 
 Hi 👋 My name is David Lenh
 ===========================
