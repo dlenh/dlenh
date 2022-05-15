@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dlenh/dlenh/blob/main/stomp.gif"/>
+  <img src="https://github.com/dlenh/dlenh/blob/main/resized%20block.gif"/>
 </p>
 
 Hi 👋 My name is David Lenh
