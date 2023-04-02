@@ -29,7 +29,7 @@ Hi 👋 My name is David Lenh
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dlenh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dlenh&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/dlenh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dlenh&stroke=ffffff&background=000001&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>My Codewars Stats</b>
 
