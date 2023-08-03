@@ -7,8 +7,7 @@ Hi 👋 My name is David Lenh
 >Analytical and creative educator with an inquisitive mind, a background in scientific research, and a drive to solve complex problems in an efficient and timely manner. Proven track record of achieving impactful results, e.g., yielding experimental findings that contribute to the greater scientific community and improving students' grades. Looking to apply these soft skills and software development skills to a tech company with global reach.
 
 * 🌍 I'm based in San Francisco, California
-* 🧠 I'm currently learning **Object-Oriented Programming, Node, React, MongoDB**
-* 💻 I'm currently working on a platform for students to ask questions [GitHub repo](https://github.com/dlenh/helP-Plz)
+* 💻 I'm currently working on an app for caregivers to track medication [GitHub repo](https://github.com/dlenh/docu-meddy)
 * ✉️ You can contact me at [dlenh425@gmail.com](mailto:dlenh425@gmail.com)
 * ⚡ Fun fact: I've been a fan of Pokémon ever since the beginning
 
