@@ -27,13 +27,3 @@ Hi 👋 My name is David Lenh
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>  
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dlenh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dlenh&stroke=ffffff&background=000001&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>My Codewars Stats</b>
-
-<a href="https://www.codewars.com/users/dlenh"><img src="https://www.codewars.com/users/dlenh/badges/large"/></a>
